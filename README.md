@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devanshujangid&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devanshujangid&layout=compact&theme=tokyonight" />
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devanshujangid&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=devanshujangid&theme=tokyonight" height="165" />
 </p>
+
 
 ---
