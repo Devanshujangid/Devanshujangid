@@ -40,5 +40,14 @@
   <img src="https://streak-stats.demolab.com/?user=devanshujangid&theme=tokyonight" height="165" />
 </p>
 
+---
 
 ---
+
+## 🔥 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshujangid&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
