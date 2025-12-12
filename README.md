@@ -29,23 +29,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Devanshujangid&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Devanshujangid&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devanshujangid&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=devanshujangid&theme=tokyonight" height="165" />
 </p>
-
 
 ---
 
 ## 🏆 Achievements & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devanshujangid&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devanshujangid&theme=onedark&no-frame=true&margin-w=10" />
 </p>
-
 
 ---
 
 ## 🧩 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Devanshujangid&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devanshujangid&layout=compact&theme=tokyonight" />
 </p>
-
