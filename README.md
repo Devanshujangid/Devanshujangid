@@ -56,4 +56,11 @@
   <img src="https://raw.githubusercontent.com/devanshujangid/devanshujangid/output/github-contribution-grid-snake.svg" />
 </p>
 
+## 🧠 DSA Profile
+<p align="center">
+  <a href="https://codolio.com/profile/devanshu_jangid" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20DSA%20Progress%20on%20Codolio-000000?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+  </a>
+</p>
+
 
